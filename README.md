@@ -1,6 +1,6 @@
 # ubuntu-updater
 
-simple useless Linux updater script to help my lazy soul keeping it's machines up-to-date
+simple useless Linux updater script to help my lazy soul keeping its machines up-to-date
 
 # Usage
 
