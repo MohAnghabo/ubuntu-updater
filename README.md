@@ -4,6 +4,6 @@ simple useless Linux updater script to help my lazy soul keeping it's machines u
 
 # Usage
 
-git clone https://github.com/MohAnghabo/ubuntu-updater.git
-cd ubuntu-updater/
-sudo ./ubuntu-updater.sh
+git clone https://github.com/MohAnghabo/ubuntu-updater.git  
+cd ubuntu-updater/  
+sudo ./ubuntu-updater.sh  
