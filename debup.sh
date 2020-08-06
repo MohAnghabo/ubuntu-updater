@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Give the proper permissions
-chmod +x debush.sh
-
 #Commands::
 apt-get update -y
 apt-get upgrade -y
