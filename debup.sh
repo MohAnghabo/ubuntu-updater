@@ -9,4 +9,4 @@ apt-get autoclean -y
 do-release-upgrade
 
 #Automatically save the package as executable
-cp debush.sh /usr/bin/
+cp debup.sh /usr/bin/
